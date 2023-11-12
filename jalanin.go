@@ -1,7 +1,7 @@
 package main
 
 import (
-	"belajar-go/constant"
+	"belajar-go/operator"
 )
 
 func main() {
@@ -12,5 +12,6 @@ func main() {
 	// boolean.Testboolean()
 	// string.Teststring()
 	// variable.Testvariable()
-	constant.Testconstant()
+	// constant.Testconstant()
+	 operator.Testoperator()
 }
